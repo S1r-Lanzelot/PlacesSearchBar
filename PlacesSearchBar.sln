@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlacesBarExamples.iOS", "Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlacesBarExamples.Droid", "PlacesBarExamples\Droid\PlacesBarExamples.Droid.csproj", "{04E38B57-9A6C-4221-8306-BAA7214273E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlacesSearchBar.Tests", "PlacesSearchBar.Tests\PlacesSearchBar.Tests.csproj", "{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,17 @@ Global
 		{04E38B57-9A6C-4221-8306-BAA7214273E9}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{04E38B57-9A6C-4221-8306-BAA7214273E9}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{04E38B57-9A6C-4221-8306-BAA7214273E9}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|iPhone.Build.0 = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D399FCE5-EBB9-4579-8B14-A0723D4E88CD}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
